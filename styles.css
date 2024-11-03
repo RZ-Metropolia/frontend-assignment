@@ -89,18 +89,20 @@ h2 {
 
 .contact-main {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 10%;
     margin-right: 10%;
 }
 
 .address {
-    font-size: 35px;
+    width: 35%;
+    font-size: xx-large;
     background-color: black;
-    padding: 20px 30px;
+    padding: 2% 2%;
+    margin-right: 5%;
 }
 
 .map {
-    width: 750px;
+    width: 45%;
 }
 
