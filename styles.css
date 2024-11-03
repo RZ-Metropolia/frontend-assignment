@@ -62,7 +62,7 @@ nav {
 .product-card {
     display: flex;
     flex-direction: column;
-    padding: 15px;
+    padding: 10px;
     width: 450px;
     background-color: #191970;
 }
@@ -78,6 +78,10 @@ h2 {
 
 .product-intro {
     text-align: justify;
+}
+
+.product-img {
+    width: 100%;
 }
 
 .contact-title {
