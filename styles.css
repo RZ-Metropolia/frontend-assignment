@@ -62,8 +62,7 @@ nav {
 .product-card {
     display: flex;
     flex-direction: column;
-    padding: 10px;
-    width: 450px;
+    width: 28%;
     background-color: #191970;
 }
 
