@@ -8,7 +8,6 @@ body {
 
 .header {
     display: flex;
-    height: 80px;
     position: relative;
     top: -7px;
     left: -7px;
@@ -20,8 +19,7 @@ body {
 
 nav {
     background-color: #0000F0;
-    padding-left: 30%;
-    padding-right: 5%;
+    padding-left: 27%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -88,15 +86,14 @@ img.product-cover {
 
 .contact-title {
     font-size: 45px;
-    margin-left: 40px;
+    margin-left: 8%;
 }
 
 .contact-main {
     display: flex;
     justify-content: space-between;
-    margin-left: 80px;
-    margin-right: 80px;
-
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .address {
