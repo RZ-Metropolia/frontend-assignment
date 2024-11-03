@@ -9,18 +9,16 @@ body {
 .header {
     width: 100%;
     display: flex;
-    position: relative;
-    top: -7px;
-    left: -7px;
 }
 
 .logo-img {
+    width: 25%;
     background-color: whitesmoke;
 }
 
 nav {
     background-color: #0000F0;
-    padding: 0 0 0 27%;
+    width: 75%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
