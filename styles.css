@@ -1,8 +1,9 @@
 body {
     font-family: Optima, sans-serif;
-    background: black;
+    background: url(images/background.jpg);
     color: white;
 }
+
 
 .header {
     display: flex;
@@ -62,7 +63,7 @@ nav {
     flex-direction: column;
     padding: 15px;
     width: 450px;
-    background-color: grey;
+    background-color: #191970;
 }
 
 h2 {
@@ -91,8 +92,8 @@ img.product-cover {
 .contact-main {
     display: flex;
     justify-content: space-between;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
 
 }
 
