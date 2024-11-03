@@ -20,7 +20,8 @@ body {
 
 nav {
     background-color: #0000F0;
-    padding-left: 547px;
+    padding-left: 30%;
+    padding-right: 5%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
