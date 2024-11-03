@@ -1,6 +1,7 @@
 body {
     font-family: Optima, sans-serif;
-    background: url(images/background.jpg);
+    background-image: url(images/background.jpg);
+    background-color: balck;
     color: white;
 }
 
