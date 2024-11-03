@@ -9,9 +9,8 @@ body {
     width: 100%;
     display: flex;
     position: relative;
-    top: -5px;
-    left: -5px;
-    right: -5px;
+    top: -7px;
+    left: -7px;
 }
 
 .logo-img {
@@ -20,16 +19,16 @@ body {
 }
 
 nav {
-    width: 70%;
     background-color: #0000F0;
-    padding-left: 35%;
+    padding-left: 50%;
+    padding-right: 3%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
 
 .nav-brand {
-    margin-right: 20%;
+    margin-right: 25%;
     font-size: xx-large;
     color: whitesmoke;
     text-decoration: None;   
