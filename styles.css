@@ -55,7 +55,6 @@ nav {
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
-    ;
 }
 
 .product-card {
@@ -75,14 +74,13 @@ h2 {
     margin-left: 45px;
 }
 
-img.product-cover {
+.product-cover {
     width: 400px;   
 }
 
 .product-intro {
     text-align: justify;
 }
-
 
 .contact-title {
     font-size: 45px;
