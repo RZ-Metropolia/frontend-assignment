@@ -101,6 +101,7 @@ img.product-cover {
 .address {
     font-size: 35px;
     background-color: black;
+    padding: 20px 30px;
 }
 
 .map {
